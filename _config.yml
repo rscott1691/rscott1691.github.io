@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Robert Scott / Site Title"
+title                    : "Robert Scott / Digital Portfolio"
 title_separator          : "-"
 name                     : &name "Robert Scott"
-description              : &description "I am a the coordinator for the Information Technology Oracle A"
+description              : &description "I am the coordinator for the Information Technology Oracle Academy Program at Havre de Grace High School."
 url                      : https://rscott1691.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rscott1691/rscott1691.github.io"
